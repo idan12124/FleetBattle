@@ -138,7 +138,7 @@ public class Handle_Game extends AsyncTask<Void, Integer, Void> {
                 } catch (IOException e) {
                     e.printStackTrace();
                 } catch (InterruptedException e) {
-                    e.printStackTrace();
+                    e.printStackTrace(); //a
                 }
             }
         }
